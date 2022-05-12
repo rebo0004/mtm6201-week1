@@ -1,0 +1,25 @@
+body {
+    background-color: azure;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+div, header, footer {
+    padding: 20px 20px;
+}
+
+dt {
+    font-weight: bold;
+}
+
+.button {
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px;
+    background-color: #333;
+    color: azure;
+}
